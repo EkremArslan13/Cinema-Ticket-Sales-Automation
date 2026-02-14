@@ -1,0 +1,17 @@
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\bin\Debug\net8.0-windows\CinemaTicketSalesAutomation.exe
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\bin\Debug\net8.0-windows\CinemaTicketSalesAutomation.deps.json
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\bin\Debug\net8.0-windows\CinemaTicketSalesAutomation.runtimeconfig.json
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\bin\Debug\net8.0-windows\CinemaTicketSalesAutomation.dll
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\bin\Debug\net8.0-windows\CinemaTicketSalesAutomation.pdb
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketsSellOtomation.Form1.resources
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.csproj.GenerateResource.cache
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.AssemblyInfoInputs.cache
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.AssemblyInfo.cs
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.csproj.CoreCompileInputs.cache
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.dll
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\refint\CinemaTicketSalesAutomation.dll
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.pdb
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.genruntimeconfig.cache
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\ref\CinemaTicketSalesAutomation.dll
+C:\Users\msı\Desktop\Sinema Otomasyonu Project1\CinemaTicketsSellOtomation\CinemaTicketsSellOtomation\obj\Debug\net8.0-windows\CinemaTicketSalesAutomation.Form2.resources
