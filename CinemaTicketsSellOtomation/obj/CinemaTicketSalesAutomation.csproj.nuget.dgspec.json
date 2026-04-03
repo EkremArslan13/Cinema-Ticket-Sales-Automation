@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\msı\\Desktop\\Yazılım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj": {}
+    "C:\\Users\\msı\\Desktop\\Sertifikalarım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\msı\\Desktop\\Yazılım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj": {
+    "C:\\Users\\msı\\Desktop\\Sertifikalarım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\msı\\Desktop\\Yazılım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj",
+        "projectUniqueName": "C:\\Users\\msı\\Desktop\\Sertifikalarım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj",
         "projectName": "CinemaTicketSalesAutomation",
-        "projectPath": "C:\\Users\\msı\\Desktop\\Yazılım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj",
+        "projectPath": "C:\\Users\\msı\\Desktop\\Sertifikalarım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\CinemaTicketSalesAutomation.csproj",
         "packagesPath": "C:\\NuGet_Cache",
-        "outputPath": "C:\\Users\\msı\\Desktop\\Yazılım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\obj\\",
+        "outputPath": "C:\\Users\\msı\\Desktop\\Sertifikalarım\\Cinema-Ticket-Sales-Automation\\CinemaTicketsSellOtomation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
